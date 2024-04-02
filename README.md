@@ -1,4 +1,4 @@
-# Circulate-the-values-of-N-variables
+# EX02 Circulate-the-values-of-N-variables
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
@@ -21,6 +21,9 @@ Then paste it at the back to circulate
 ## Program:
 
 ``````
+CIRCULATE N VARIABLES
+DEVELOPED BY: HARINI R
+REGISTER NUMBER: 212223100010
 def circulate():
     l=eval(input())
     n=int(input())
