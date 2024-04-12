@@ -6,7 +6,9 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Start the program
 ### Step 2: 
+Initialize the values in the list
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
